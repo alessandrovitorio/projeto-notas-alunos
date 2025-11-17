@@ -94,6 +94,7 @@ function exebirAlunos(listaAlunos = alunos) {
     avatar(card, aluno.foto, aluno.nome);
   }
 }
+
 //função para calcular a media das notas do aluno
 function media(notas = []) {
   //variaveis para soma das notas e total de notas
@@ -110,5 +111,6 @@ function media(notas = []) {
   //retorna a media das notas
   return somaNotas / total;
 }
+
 //chama a função para exibir os alunos na tela
 exebirAlunos(alunos);

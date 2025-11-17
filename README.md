@@ -116,9 +116,15 @@ Isso aqui já é um pedacinho do que vocês vão encontrar no mercado de program
 Esse projeto é para vocês entenderem que dá para criar **coisas grandes** partindo do básico.
 
 ---
+🔗 Projeto Online
+
+Acesse o projeto funcionando no GitHub Pages:
+
+➡️ https://alessandrovitorio.github.io/projeto-notas-alunos/
 
 ## 🤝 **Qualquer dúvida, testem, perguntem e experimentem**
 
 A melhor forma de aprender é mexendo, errando, testando e melhorando. Vocês estão no caminho certo!
+![]
 
 Vamos em frente! 🚀👨‍🏫
